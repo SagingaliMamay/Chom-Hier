@@ -1,3 +1,4 @@
-# Welcome to our first real client project "Chôm'Hier"
-### This is a real existing site who really needs a good optimisation....
+# Backend branch
+
+waiting for mailchimp config to be done before push it here!
 
