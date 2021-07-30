@@ -1,18 +1,9 @@
-
-.carousel-item
+.jumbotron
 {
+    margin-top: 20px;
+    background-image: url("https://images.pexels.com/photos/1760844/pexels-photo-1760844.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-size:cover;
 
-height: 500px;
-
-}
-
-.gps{
-    position: center;
-}
-body
-{
-    background-color: burlywood;
-    margin-left: 15px;
 }
 .footer{padding:20px 0px; background:#333;}
 .footer-parts-h3{ font-size:18px; font-weight:600; color:#FFF; padding:10px 0px;}
@@ -23,3 +14,13 @@ body
 .footer-icons ul li a{color:#FFF; font-weight:600; font-size:18px;}
 .footer-icons ul li a:hover{ color:#CCC;}
 .footer-bottom{padding:15px; text-align:center; color:#FFF; font-size:13px; background:#000;}
+
+.nav-bourger{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: white;
+
+}
